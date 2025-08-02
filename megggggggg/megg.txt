@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+ <head>
+  <title>my web page </title>
+   <body>
+ <h1> Tiger </h1>
+  <p>  <img src="sudu(2).jpg"widtht="200" height="200">   </p>
+      
+       <ul>
+       <li>  <a href="# TK">Turkish airlines </a>  <li>
+       <li>  <a href="# MS">Egypt air </a>  <li>
+       <li>  <a href="# CA"> air cina </a>  <li>
+       </ul>
+       <br>
+       <br>
+       <p> <a name="TK">This is the airlines about turkish </a> </p>
+       <br>
+       <br>
+       <br>
+       <br>
+       <p> <a name="MS">This is the air about egypt </a> </p> 
+       <br>
+       <br>
+       <br>
+       <br>
+        <p> <a name="CA">This is the air about china </a> </p> 
+      <table width=100%>
+      <tr>
+      <th> id </th>
+      <th> name </th>
+      <th> Age  </th>
+      <th> Address </th>
+      <th> phone </th>
+      </tr>
+      
+      <tr>
+      <td> 1 </td>
+     <td>  abeni  </td>
+     <td> 119 </td>
+     <td> adama  </td>
+     <td> 0911010123 </td>
+      </tr>
+
+     <tr>
+     <td> 2 </td>
+     <td>  yonas  </td>
+     <td> 18 </td>
+     <td> sebeta  </td>
+     <td> 0921214532 </td>
+     </tr>
+
+     <tr>
+     <td> 3 </td>
+     <td>  megfira  </td>
+     <td> 17 </td>
+     <td> A.A  </td>
+     <td> 0991120909 </td>
+     </tr>
+
+     <tr>
+     <td> 4 </td>
+     <td>  merima  </td>
+     <td> 17 </td>
+     <td> jema  </td>
+     <td> 0909112344 </td>
+     </tr>
+     </body>
+   </html>
+
+       
